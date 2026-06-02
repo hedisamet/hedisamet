@@ -46,9 +46,6 @@ Health and lifestyle tracking dashboard built with Next.js, TypeScript, and Supa
 ### 📊 Excel Data Automation Tool
 
 Automated Excel processing, validation, AI-assisted cleaning, and PostgreSQL import platform.
-# 🤖 AI Product Description Generator
-
-#AI-powered platform that generates SEO-friendly product descriptions for e-commerce businesses using large language models and customizable content strategies.
 
 ---
 
