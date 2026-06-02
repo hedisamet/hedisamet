@@ -51,12 +51,19 @@ Automated Excel processing, validation, AI-assisted cleaning, and PostgreSQL imp
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/samet-mohamed-hedi/))
+<p align="left">
+  <a href="https://www.linkedin.com/in/samet-mohamed-hedi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:medhedisamet@gmail.com
-)
+  <a href="mailto:medhedisamet@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01f79fbd75caebdb3a)
+  <a href="https://www.upwork.com/freelancers/~01f79fbd75caebdb3a">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
