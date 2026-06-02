@@ -10,9 +10,9 @@
 
 * 🤖 Building AI-powered applications, automation tools, and business solutions.
 * 🎓 Computer Science Engineer from the National Engineering School of Sfax (ENIS).
-* 💼 Developing full-stack applications with modern web technologies.
+* 💼 Developing full-stack applications, e-commerce platforms, and data-driven solutions.
 * ⚙️ Specialized in backend development, API integrations, and workflow automation.
-* 🚀 Currently building AI and data automation projects for real-world business use cases.
+* 🚀 Focused on AI integrations, business automation, and e-commerce solutions.
 * 📈 Interested in software architecture, cloud technologies, and scalable systems.
 * 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
 
@@ -46,20 +46,20 @@ Health and lifestyle tracking dashboard built with Next.js, TypeScript, and Supa
 ### 📊 Excel Data Automation Tool
 
 Automated Excel processing, validation, AI-assisted cleaning, and PostgreSQL import platform.
+# 🤖 AI Product Description Generator
 
-### 🤖 AI Product Description Generator
-
-AI-powered content generation tool for e-commerce businesses.
+#AI-powered platform that generates SEO-friendly product descriptions for e-commerce businesses using large language models and customizable content strategies.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/samet-mohamed-hedi/))
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:medhedisamet@gmail.com
+)
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01f79fbd75caebdb3a)
 
 ---
 
