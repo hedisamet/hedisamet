@@ -14,7 +14,7 @@
 * ⚙️ Specialized in backend development, API integrations, and workflow automation.
 * 🚀 Focused on AI integrations, business automation, and e-commerce solutions.
 * 📈 Interested in software architecture, cloud technologies, and scalable systems.
-* 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+* 📫 Reach me at: **[medhedisamet@gmail.com](mailto:medhedisamet@gmail.com)**
 
 ---
 
