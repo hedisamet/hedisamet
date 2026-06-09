@@ -33,21 +33,6 @@
 - API Integrations
 ---
 
-## 🌟 Featured Projects
-
-### 💰 SmartWallet
-
-Personal finance and digital wallet platform built with ASP.NET Core, Angular, PostgreSQL, and SignalR.
-
-### 🏋️ Hayat
-
-Health and lifestyle tracking dashboard built with Next.js, TypeScript, and Supabase.
-
-### 📊 Excel Data Automation Tool
-
-Automated Excel processing, validation, AI-assisted cleaning, and PostgreSQL import platform.
-
----
 
 ## 🌐 Connect With Me
 
